@@ -1,0 +1,27 @@
+- cd changes working directory to path entered
+  - starts with / = absolute. Otherwise relative
+  - home
+  .. - up a directory. seperate with /
+- ls lists directory content
+  -t - date ordering
+  -l - long format
+  -r - reverse ordering
+  -S - size ordering
+  -a - show all files including hidden files
+- mkdir makes directory
+- rmdir removes empty directory
+- touch creates blank file
+- cp = copy
+- mv = move
+- rm = remove
+- cd = home directory
+- pwd = print working directory
+- file = tells file type
+- man = manual used to check flags
+- control-c - kill application
+- history - lists commands in history
+- less - pager
+- | - piping - output of previous = input of next
+- cat - program to concatenate files together in terminal
+
+
